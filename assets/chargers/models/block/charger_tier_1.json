@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "galacticraftcore:blocks/machine",
+        "side": "chargers:blocks/block_charger_tier_1_side"
+    }
+}

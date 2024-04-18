@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "chargers:blocks/block_charger_tier_3",
+        "side": "chargers:blocks/block_charger_tier_3_side"
+    }
+}

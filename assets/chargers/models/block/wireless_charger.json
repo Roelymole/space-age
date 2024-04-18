@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "galacticraftcore:blocks/advanced/machine",
+        "side": "chargers:blocks/block_wireless_charger_disabled"
+    }
+}

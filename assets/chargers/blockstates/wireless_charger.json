@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "chargers:wireless_charger",
+        "transform": "forge:default-block"
+    },
+    "variants": {
+        "powered": {
+            "true": {
+                "textures": {
+                    "end": "galacticraftcore:blocks/advanced/machine",
+                    "side": "chargers:blocks/block_wireless_charger_enabled"
+                }
+            },
+            "false": {}
+        }
+
+    }
+}

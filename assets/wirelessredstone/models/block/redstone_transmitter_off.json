@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "side": "wirelessredstone:blocks/redstone_transmitter_side_off",
+    "end": "galacticraftcore:blocks/machine"
+  }
+}
